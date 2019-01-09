@@ -1,11 +1,11 @@
-! Version: 201809191300
+! Version: 201901091100
 ! Title: DragonList
 ! Author: Dragon
-! Last modified: 2018/09/19 13:13 +0800
+! Last modified: 2019/01/09 11:13 +0800
 ! Expires: 永久生效
 ! Email: 
 ! Others: 广告猎手QQ群:514536444
 
 !---------------Element type-----------------!
-*$third-party,script,domain=m.biqugezw.com|m.biquzi.com|m.wutuxs.com|m.biquke.com|m.biquge.info|m.bequge.com|m.biqugexsw.com
-*$xmlhttprequest,domain=m.biqugezw.com|m.biquzi.com|m.wutuxs.com|m.biquke.com|m.biquge.info|m.bequge.com|m.biqugexsw.com
+*$third-party,script,domain=m.biqugezw.com|m.biquzi.com|m.wutuxs.com|m.biquke.com|m.biquge.info|m.bequge.com|m.biqugexsw.com|m.biquyun.com
+*$xmlhttprequest,domain=m.biqugezw.com|m.biquzi.com|m.wutuxs.com|m.biquke.com|m.biquge.info|m.bequge.com|m.biqugexsw.com|m.biquyun.com
