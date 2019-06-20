@@ -7,5 +7,5 @@
 ! Others: 广告猎手QQ群:514536444
 
 !---------------Element type-----------------!
-*$third-party,script,domain=m.biqugezw.com|m.biquzi.com|m.wutuxs.com|m.biquke.com|m.biquge.info|m.bequge.com|m.biqugexsw.com|m.biquyun.com|m.booktxt.com|m.biquge.cm|m.boluoxs.com|m.23txt.com|m.dingdiann.com|m.biquku.la|m.022003.com
-*$xmlhttprequest,domain=m.biqugezw.com|m.biquzi.com|m.wutuxs.com|m.biquke.com|m.biquge.info|m.bequge.com|m.biqugexsw.com|m.biquyun.com|m.booktxt.com|m.biquge.cm|m.boluoxs.com|m.23txt.com|m.dingdiann.com|m.biquku.la|m.022003.com
+*$third-party,script,domain=m.biqugezw.com|m.biquzi.com|m.wutuxs.com|m.biquke.com|m.biquge.info|m.bequge.com|m.biqugexsw.com|m.biquyun.com|m.booktxt.com|m.biquge.cm|m.boluoxs.com|m.23txt.com|m.dingdiann.com|m.biquku.la|m.022003.com|m.biqudao.com|m.biqugex.com
+*$xmlhttprequest,domain=m.biqugezw.com|m.biquzi.com|m.wutuxs.com|m.biquke.com|m.biquge.info|m.bequge.com|m.biqugexsw.com|m.biquyun.com|m.booktxt.com|m.biquge.cm|m.boluoxs.com|m.23txt.com|m.dingdiann.com|m.biquku.la|m.022003.com|m.biqudao.com|m.biqugex.com
